@@ -1,0 +1,51 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+.project
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# Secrets
+.env.local
+.env.*.local
+secrets.json
+*-secret*
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
+out/
+
+# Temp
+temp/
+tmp/
+*.tmp
